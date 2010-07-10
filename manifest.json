@@ -1,0 +1,23 @@
+{
+  "name": "Accenture Yammer",
+  "version": "1",
+  "icons": {
+    "128": "128.png",
+    "24": "24.png",
+    "32": "32.png",
+    "48": "48.png"
+  },
+  "permissions": ["unlimited_storage"],
+  "app": {
+    "urls": [
+      "*://www.yammer.com/accenture.com/",
+      "*://yammer.com/accenture.com/"
+    ],
+    "browse_urls": [
+      "https://www.yammer.com/accenture.com"
+    ],
+    "launch": {
+      "web_url": "https://www.yammer.com/accenture.com"
+    }
+  }
+}
