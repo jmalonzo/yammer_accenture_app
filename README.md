@@ -1,7 +1,7 @@
 Installable Yammer/Accenture.com web app for [Google Chrome](http://www.google.com/chrome)
 and [Chromium](http://www.chromium.org) 
 
-*DISCLAIMER* This project is not in any way affiliated with Yammer and
+***DISCLAIMER*** This project is not in any way affiliated with Yammer and
   Accenture, nor it is supported by them. This is just for my personal
   use. I'm hoping that others, with yammer networks especially, will
   find it as a starting point for their own networks.
